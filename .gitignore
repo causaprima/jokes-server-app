@@ -36,3 +36,9 @@ lerna-debug.log*
 
 # ENV
 .env
+
+# GraphQL schema
+*.gql
+
+# Assets
+/assets
